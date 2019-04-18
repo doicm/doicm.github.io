@@ -3,6 +3,7 @@
   "packages": [
     {
       "name": "FFV Career Day - Key Items & Boss Locations",
+			"game_name": "Final Fantasy V",
       "author": "Doicm",
       "version": "1.0.0.0",
       "uid": "Doicm",
