@@ -3,9 +3,10 @@
   "packages": [
     {
       "name": "FFV Career Day - Key Items & Boss Locations",
+			"game_name": "Final Fantasy V",
       "author": "Doicm",
       "version": "1.0.0.0",
-      "uid": "Doicm",
+      "uid": "ffv_careerday_official_doicm",
       "link": "https://doicm.github.io/ffv_careerday_official.zip"
     }
   ]
