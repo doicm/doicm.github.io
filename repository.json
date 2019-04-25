@@ -8,14 +8,14 @@
       "uid": "ffv_careerday_doicm",
 			"game_name": "Final Fantasy V: Career Day",
       "link": "https://doicm.github.io/ffv_careerday_doicm.zip"
-			"variants": {
+			"variants": [
 				"standard":{
 					"display_name": "Key Item & Boss Location Tracker"
 				},
 				"map":{
 					"display_name": "Key Item, Boss Location, Item and Shop Tracker w/ Map"
 				}
-			}
+			]
     }
   ]
 }
