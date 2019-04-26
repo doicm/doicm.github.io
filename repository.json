@@ -4,7 +4,7 @@
     {
       "name": "FFV Career Day - Complete",
       "author": "Doicm, RoryExtraLife",
-      "version": "1.0.1.0",
+      "version": "1.0.2.0",
       "uid": "ffv_careerday_doicm",
 			"game_name": "Final Fantasy V: Career Day",
       "link": "https://doicm.github.io/ffv_careerday_doicm.zip",
@@ -15,6 +15,9 @@
 				{
 					"name": "Key Item, Boss Location, Item and Shop Tracker w/ Map",
 					"flags": ["map", "pins"]
+				},
+				{
+					"name": "Key Item & Bosses Tracker"
 				}
 			]
     }
